@@ -1,0 +1,20 @@
+{
+  "scrum" : [
+  
+   {
+    "jobId" : "Prisdent1",
+    "jobTitle" : "Administration3",
+    "minSalary" : 200,
+    "maxSalary" : 1000
+  },
+  
+  {
+  "jobId": "AD_VP",
+  "jobTitle": "New QA",
+  "minSalary": 30000,
+  "maxSalary": 140000
+}
+  
+   ],
+  "sit" : [ { } ]
+}

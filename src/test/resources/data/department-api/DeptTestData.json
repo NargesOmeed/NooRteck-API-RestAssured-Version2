@@ -1,0 +1,24 @@
+{
+  "scrum" : [ 
+  {
+    "departmentName" : "B8",
+    "managerId" : 123,
+    "locationId" : 1000
+  } ,
+  
+  {
+  "departmentId": 110,
+  "departmentName": "department QA1",
+  "managerId": 205,
+  "locationId": 1700
+},
+{
+  "jobId": "AD_VP2",
+  "jobTitle": "Administration Vice President2",
+  "minSalary": 20000,
+  "maxSalary": 100000
+}
+  
+  ],
+  "sit" : [ { } ]
+}
