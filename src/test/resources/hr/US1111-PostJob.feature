@@ -13,7 +13,7 @@ Feature: Create New Job API
       | <message> |
     And User validates cross validates against application database
 
-    @scrum1
+    @Clean
     Examples: 
       | region  | apiName            | statusCode | requestBody           | message              |
       | "scrum" | "Job:PostCreatJob" | "200"      | 'JobTestData:scrum:0' | Successfully created |
